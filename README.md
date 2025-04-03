@@ -23,7 +23,7 @@ The goal is to use the first nine variables to predict **PV output**.
 - **Exploratory Data Analysis (EDA)**: Understanding variable distributions and correlations.
 - **Feature Selection**: Identifying key predictors for PV output.
 - **Model Training**:
-  - Various regression models may be used (e.g., Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Neural Networks, etc., I have used XGBoost).
+  - I have used XGBoost.
   - Machine learning best practices will be followed, though optimization is not required.
 - **Model Evaluation**:
   - The first two years of data will be used for training.
